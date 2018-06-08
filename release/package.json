@@ -10,9 +10,9 @@
     "cookie",
     "cookies"
   ],
-  "main": "release/bundles/cookies.umd.min.js",
-  "module": "release/index.js",
-  "typings": "release/index.d.ts",
+  "main": "bundles/cookies.umd.min.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "clean:pre": "rimraf release",
     "clean:post": "rimraf \"src/**/*.ngfactory.ts\" \"index.ngsummary.json\" \"browser.ngsummary.json\" \"server.ngsummary.json\" \"src/**/*.ngsummary.json\"",

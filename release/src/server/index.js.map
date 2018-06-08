@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/server/index.ts"],"names":[],"mappings":"AAAA,cAAc,yBAAyB,CAAC;AACxC,cAAc,0BAA0B,CAAC","sourcesContent":["export * from './server-cookies.module';\nexport * from './server-cookies.service';\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"cookies-options.js","sourceRoot":"","sources":["../../src/cookies-options.ts"],"names":[],"mappings":"","sourcesContent":["export interface CookiesOptions {\n  path?: string | null;\n  domain?: string | null;\n  expires?: string | Date | null;\n  secure?: boolean | null;\n  httpOnly?: boolean | null;\n}\n"]}
